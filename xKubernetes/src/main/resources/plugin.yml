@@ -1,0 +1,8 @@
+name: xk8sAPI
+version: '${project.version}'
+main: de.pixelplayer_studios.xkubernetes.xKubernetes
+api-version: '1.20'
+author: PixelPlayer Studios
+commands:
+  kubernetes:
+    aliases: kubectl, kubeman, kubeadmn
